@@ -1,5 +1,1 @@
-ahoj
-caujhgfj
-cgnfgj
-tdfndfhn
-dtnd
+ukol jednoduchy rozcestnik
